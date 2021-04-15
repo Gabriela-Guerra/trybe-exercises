@@ -1,0 +1,42 @@
+        h1{
+            font-size: 65px;
+            color: orange;
+            font-family: sans-serif;
+        }
+
+        #corlistafundo {
+            background-color: purple;
+        }
+        
+        .fraselistacor {
+            background-color: orangered;
+        }
+
+        p {
+            font-weight: 600;
+            margin-bottom: 3em;
+            font-style: italic;
+            line-height: 300%;
+            text-decoration-line: line-through;
+        }
+
+        body {
+            font-size: 16px;
+        }
+
+        li {
+            text-align: center;
+        }
+
+        .coramarelo {
+            background-color: yellow;
+        }
+
+        .corvermelho {
+            background-color: red;
+        }
+
+        .cormarrom {
+            background-color: saddlebrown;
+        }
+
